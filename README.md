@@ -1,0 +1,1 @@
+Exercicio desenvolvido para a disciplina de POO2, onde foram deitas aplicações simples dos seguintes padrões de projeto: Singleton, Factory Method, Builder, Fluente Interface, Abstract Factory e Prototype
